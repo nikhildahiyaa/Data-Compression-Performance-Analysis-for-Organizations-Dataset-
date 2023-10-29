@@ -1,5 +1,5 @@
 
-# CMPT353 PROJECT: Data Compression Performance Analysis
+# Data Compression Performance Analysis
 
 
 The initial problem posed was to explore data compression techniques including gzip, snappy, and lz4, and evaluate their performance. To make this analysis more practical and relevant, we chose to work with an organizations dataset. This dataset comprises 100,000 records of organizations, each with various attributes such as Organization Id, Name, Website, Country, Description, Founded Year, Industry, and Number of employees.
